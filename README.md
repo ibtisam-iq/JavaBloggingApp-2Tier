@@ -1,7 +1,7 @@
-# 3 Tier Java Blogging Application 
+# Full Stack Java Blogging Application 
 
 ## Overview
-This project is a Java-based blogging application that follows a 3-tier architecture, utilizing an H2 in-memory database. The application is designed to demonstrate a typical enterprise-level blogging system with a clear separation of concerns across the presentation, business logic, and data access layers.
+This project is a Java-based blogging application that follows a 2-tier architecture, utilizing an H2 in-memory database. The application is designed to demonstrate a typical enterprise-level blogging system with a clear separation of concerns across the presentation, business logic, and data access layers.
 
 ## Project Structure
 The project follows a standard Spring Boot structure with the following key directories and files:
